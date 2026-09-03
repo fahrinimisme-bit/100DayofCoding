@@ -3,6 +3,6 @@ public class Main {
   { System.out.println("Hello World");
     }
 } 
- / ini adalah komentar jenis pertama 
-  // dan ini adalah jenis komentar kedua
-  /** dan ini adalah jenis komentar ketiga
+// jenis komentar pertama (Single-line Comment)
+     /*dan ini adalah jenis komentar kedua (Multi-line Comment)*/
+        /**dan ini adalah jenis komentar kedua (Documentation Comment)*/
