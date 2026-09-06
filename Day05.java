@@ -2,8 +2,8 @@ public class Day5 {
     public static void main(String[] args) {
 
         // penjelasan dari variabel tipe pecahan
-        double tinggiBadan = 166;
-        float beratBadan = 62f;
+        double tinggiBadan = 166,2;
+        float beratBadan = 62,4f;
 
         // Menampilkan batas nilai tipe data double
         System.out.println("Nilai Minimalnya double adalah: " + Double.MIN_VALUE);
