@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Day12 {    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
-        System.out.println("INPUT DATA DIRI IWAN FALS );
         
         System.out.print("NAMA LENGKAP  : ");
         String nama = input.nextLine();
