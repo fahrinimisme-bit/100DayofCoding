@@ -1,4 +1,4 @@
-import java.util.Scanner; // 1. Tambahkan import di paling atas
+import java.util.Scanner;
 
 public class day16 {
 
