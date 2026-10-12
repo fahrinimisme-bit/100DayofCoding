@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day40 {
+public class day41 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("ISI TEMPERATURE DI RUANGAN ANDA\t°C:");
