@@ -11,7 +11,7 @@ public class day42 {
         double potongan = s.nextDouble();
 
         if (potongan > gajiPokok) {
-            System.out.println("Potongan tidak boleh lebih besar dari gaji!");
+            System.out.println("nominal potongan tidak boleh lebih besar dari gaji");
         } else {
             double gajiBersih = gajiPokok - potongan;
             System.out.println("Gaji bersih: Rp " + gajiBersih);
