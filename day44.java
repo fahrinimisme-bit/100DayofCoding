@@ -21,6 +21,7 @@ public class day44 {
             predikat = 'C';
         } else if (nilai >= 55) {
             System.out.println("nilai mu anjlok seperti rupiah");
+            predikat = 'D';
         } else {
             System.out.println("nilai sangat sangat buruk saya sarankan jangan terlalu banyak mengikuti organisasi");
             predikat = 'E';
