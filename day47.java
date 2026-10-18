@@ -29,7 +29,7 @@ public class day47 {
                 hari = "ahad";
                 break;
                 default : 
-                hari = "angka tidak valid";
+                hari = "hari ke nya tidak valid";
       
     }
     System.out.printf("hari %s" , hari);
