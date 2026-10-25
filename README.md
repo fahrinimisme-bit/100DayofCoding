@@ -1,2 +1,0 @@
-# 100DayofCoding
-semogasyabisajagocoding
