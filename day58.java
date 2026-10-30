@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day59 {
+public class day58 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Masukan n   :");
