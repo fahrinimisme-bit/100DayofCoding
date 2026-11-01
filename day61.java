@@ -6,7 +6,7 @@ public class day61 {
 
         System.out.println("Masukkan n  :");
         int n = s.nextInt();
-        int total = 1;
+        long total = 1;
         for (int i = 1; i <= n; i++) {
 
             total *= i;
