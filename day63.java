@@ -7,11 +7,11 @@ public class day63 {
         int m = s.nextInt();
         System.out.print("Masukkan N = ");
         int n = s.nextInt();
-        int total = 0;
+        int total = 1;
         for (int i = 1; i <= n; i++) {
-            total += m;
+            total *= m;
 
-            System.out.println(m + " ditambah " + n + " kali = " + total);
+            System.out.println(m + " dikali " + n +" = "+ total);
         }
         System.out.println("berarti " + m + " pangkat " + n);
     }
